@@ -1,10 +1,10 @@
 ,Algo,RSME,MAX ERROR
-0,Basic RF - Dummy Encoded - Not Scaled,769.4113865971706,4515.84
-1,Basic RF Random Search CV - Dummy Enc - Not Scaled,812.3486822637144,5045.304
-2,Basic RF - Dummy Encoded - Standard Scaled,760.6156885537608,4608.85
-3,Basic RF - No Cat Features - Not Scaled,792.0931225021642,4707.120000000001
-4,Basic RF - No Cat Features - Standard Scaled,764.4876282907687,3972.9400000000005
-5,Basic RF - Count Encoded - Not Scaled,756.0330549557916,4509.43
-6,Basic RF - Count Encoded - Standard Scaled,756.8486874712169,4420.4400000000005
-7,Basic GB - Count Encoded- Not Scaled,760.3670806055584,3740.8281026068007
-8,Tuned GB - Count Encoded - Not Scaled,716.3156961536246,3737.88005259323
+0,Basic RF - Dummy Encoded - Not Scaled,769.4113866,4515.84
+1,Basic RF Random Search CV - Dummy Enc - Not Scaled,812.3486823,5045.304
+2,Basic RF - Dummy Encoded - Standard Scaled,760.6156886,4608.85
+3,Basic RF - No Cat Features - Not Scaled,792.0931225,4707.12
+4,Basic RF - No Cat Features - Standard Scaled,764.4876283,3972.94
+5,Basic RF - Count Encoded - Not Scaled,756.033055,4509.43
+6,Basic RF - Count Encoded - Standard Scaled,756.8486875,4420.44
+7,Basic GB - Count Encoded- Not Scaled,760.3670806,3740.828103
+8,Tuned GB - Count Encoded - Not Scaled,716.3156962,3737.880053
